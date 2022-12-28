@@ -7,8 +7,16 @@
 
 ![](cs-parc.md){.include}
 
+## Η περίπτωση του Arcade Machine
+
+![](cs-arcade-machine.md){.include}
+
 ## Σύντομη βιογραφία του Alan Kay
 
 ![](bio-kay.md){.include}
+
+## Σύντομη βιογραφία του Ralph Baer
+
+![](bio-ralph-baer.md){.include}
 
 ## Βιβλιογραφία
